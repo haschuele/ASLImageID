@@ -138,5 +138,7 @@ model_1 = cnn_model(kernel_size = (5,5),
           optimizer = 'adam')
 ```
 # Best Model Results
-![Model Parameters]("/../Best Model Parameters.png"?raw=true)
+![Model Parameters](https://github.com/haschuele/ASLImageID/blob/main/Best%20Model%20Parameters.png)
+
+![Model Results](https://github.com/haschuele/ASLImageID/blob/main/Best%20Model%20Results.png)
 
