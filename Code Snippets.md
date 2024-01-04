@@ -138,6 +138,5 @@ model_1 = cnn_model(kernel_size = (5,5),
           optimizer = 'adam')
 ```
 # Best Model Results
-[Model Parameters]("Best Model Parameters.png")
+![Model Parameters]("/../Best Model Parameters.png"?raw=true)
 
-[Model Results]("Best Model Results.png")
