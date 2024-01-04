@@ -131,12 +131,13 @@ def cnn_model(input_data = X_train, label_data = Y_train_onehot,
 
 # Test Models
 ```python
-# Baseline model
-model_baseline = cnn_model(kernel_size = (3,3), 
-          pool_size = (2,2), 
-          strides = (1,1), 
+model_1 = cnn_model(kernel_size = (5,5), 
+          pool_size = (2,2),
+          strides = (1,1),
           learning_rate = 0.001,
           optimizer = 'adam')
 ```
-# Baseline Model Results
-![Model Parameters]()
+# Best Model Results
+[Model Parameters]("Best Model Parameters.png")
+
+[Model Results]("Best Model Results.png")
