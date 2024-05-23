@@ -6,6 +6,6 @@ We used multiclass logistic regression containing a sequential layer and a softm
 
 This led us to CNN models, where we started by adding different Conv2D, max pooling, and dense layers. Of the models whose training and validation accuracies converged, we selected our best performing layer combination and experimented with different hyperparameters - including kernel size, pool size, strides, learning rate, and optimizer. Some modifications (i.e. learning rate = 0.01 and optimizer = SGD) did very poorly and we didn’t bother incorporating them for subsequent tests. Our best CNN model had 94% accuracy on the test data.
 
-Click [here](https://github.com/haschuele/ASLImageID/blob/main/SignOn%20Final%20Presentation.pptx.pdf) to see our final presentation and [here](https://github.com/haschuele/ASLImageID/blob/main/Code%20Snippets.md) for code snippets.
+You can view our [final presentation](https://github.com/haschuele/ASLImageID/blob/main/SignOn%20Final%20Presentation.pptx.pdf) and [code snippets](https://github.com/haschuele/ASLImageID/blob/main/Code%20Snippets.md).
 
 This group project was conducted in the UC Berkeley MIDS' "Applied Machine Learning" course.
